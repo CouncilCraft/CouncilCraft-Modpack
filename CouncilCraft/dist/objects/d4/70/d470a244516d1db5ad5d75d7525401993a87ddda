@@ -1,0 +1,90 @@
+# Configuration file
+
+####################
+# """""explosives ids"""""
+####################
+
+""""""explosives ids"""""" {
+    I:"Anti Living Entity Mine (Block)"=499
+    I:"Anti Living Entity Mine (Item)"=19999
+    I:"GC HEDP Rocket"=20002
+    I:"GC PG-7VL"=20000
+    I:"GC RPG-7V2"=20001
+    I:"GC SMAW"=20003
+}
+
+
+####################
+# """""gun customization"""""
+####################
+
+""""""gun customization"""""" {
+    B:"Enable Block Damage"=true
+    B:"Enable Explosives"=true
+    B:"Enable Official Guns"=true
+}
+
+
+####################
+# """""gun customization ids"""""
+####################
+
+""""""gun customization ids"""""" {
+    I:"Ammo Box"=503
+    I:Attachments=13005
+    I:Barrels=13004
+    I:"Box Part"=13002
+    I:"Bullet Box"=502
+    I:"GC 40x46mm SR Frag"=13006
+    I:"Gun Box"=504
+    I:"Mag Box"=501
+    I:"Manual Mag Filler"=13001
+    I:"Quick Knife"=13000
+    I:Scopes=13003
+    I:"Weapon Box"=500
+}
+
+
+####################
+# """""official guns bullet ids"""""
+####################
+
+""""""official guns bullet ids"""""" {
+    I:"GC .45 ACP"=30000
+    I:"GC 5.45x39mm WP"=30002
+    I:"GC 5.56x45mm NATO"=30001
+    I:"GC 7.62x39mm WP"=30005
+    I:"GC 7.62x51mm NATO"=30004
+    I:"GC 7.62x54mm R"=30006
+    I:"GC 9x19mm Parabellum"=30003
+}
+
+
+####################
+# """""official guns gun ids"""""
+####################
+
+""""""official guns gun ids"""""" {
+    I:"GC AEK-971"=30010
+    I:"GC G17"=30016
+    I:"GC G18"=30018
+    I:"GC L96"=30012
+    I:"GC M16A3"=30008
+    I:"GC SV98"=30014
+}
+
+
+####################
+# """""official guns mag ids"""""
+####################
+
+""""""official guns mag ids"""""" {
+    I:"GC AEK-971 Magazine"=30009
+    I:"GC G17 Magazine"=30015
+    I:"GC G18 Magazine"=30017
+    I:"GC L96 Magazine"=30011
+    I:"GC M16A3 Magazine"=30007
+    I:"GC SV98 Magazine"=30013
+}
+
+

@@ -1,0 +1,167 @@
+# Configuration file
+
+####################
+# base damage
+####################
+
+"base damage" {
+    # If BaseDamage is set to true, all mobs will deal an additional 0.5 damage (ignores armor).
+    S:" "= 
+    B:BaseDamage=true
+}
+
+
+####################
+# block
+####################
+
+block {
+    S:" "= 
+    I:BustValkyrie=1890
+    I:BustVampire=1891
+}
+
+
+####################
+# general
+####################
+
+general {
+    # Spawn Rate. Set to 0 to disable mob from spawning.
+    S:" "= 
+    I:SpawnRateAnubis=4
+    I:SpawnRateBanshee=6
+    I:SpawnRateBaphomet=6
+    I:SpawnRateBoneKnight=6
+    I:SpawnRateCentaur=2
+    I:SpawnRateCobbleGolem=4
+    I:SpawnRateCobblestoneGolem=4
+    I:SpawnRateCockatrice=1
+    I:SpawnRateCreep=4
+    I:SpawnRateCyclops=4
+    I:SpawnRateDryad=2
+    I:SpawnRateDullahan=4
+    I:SpawnRateEnderDragonGirl=6
+    I:SpawnRateEnderEye=6
+    I:SpawnRateFleshLich=6
+    I:SpawnRateFutakuchiOnna=4
+    I:SpawnRateGigaKnight=2
+    I:SpawnRateGryphon=2
+    I:SpawnRateHarpy=1
+    I:SpawnRateHunter=4
+    I:SpawnRateJorogumo=2
+    I:SpawnRateMermaid=4
+    I:SpawnRateMimic=2
+    I:SpawnRateMinotaur=1
+    I:SpawnRateMinotaurus=6
+    I:SpawnRateMummy=6
+    I:SpawnRateNaga=2
+    I:SpawnRateNineTails=2
+    I:SpawnRateSahuagin=8
+    I:SpawnRateSalamander=1
+    I:SpawnRateSelkie=1
+    I:SpawnRateShaman=6
+    I:SpawnRateSharko=4
+    I:SpawnRateSiren=2
+    I:SpawnRateSlimeGirl=4
+    I:SpawnRateSpawnMandragora=1
+    I:SpawnRateSphinx=1
+    I:SpawnRateSpriggan=6
+    I:SpawnRateSuccubus=10
+    I:SpawnRateValkyrie=1
+    I:SpawnRateVampire=1
+    I:SpawnRateWerecat=4
+    I:SpawnRateWitch=2
+    I:SpawnRateWitherCow=4
+    I:SpawnRateYeti=2
+    I:SpawnRateYukiOnna=2
+}
+
+
+####################
+# item
+####################
+
+item {
+    # Add 256 to target item value (Example: The target value is 10000: 10000 - 256 = 9744. 9744 is the value that is to be written.)
+    S:" "= 
+    I:AccessoryRingHaste=31698
+    I:AccessoryRingLuck=31695
+    I:ItemBagBook=31709
+    I:ItemBagOre=31702
+    I:ItemBagRecord=31701
+    I:ItemBerryOcean=31736
+    I:ItemBoxDiamond=31722
+    I:ItemBoxGold=31723
+    I:ItemBoxIron=31724
+    I:ItemBoxOld=31700
+    I:ItemFoodBerryCure=31737
+    I:ItemFoodBerryHealth=31734
+    I:ItemFoodBerryIce=31733
+    I:ItemFoodChocolateMousse=31727
+    I:ItemFoodEnchantedMilk=31728
+    I:ItemFoodMandrake=31732
+    I:ItemFoodMandrakeStew=31729
+    I:ItemFoodMeatBun=31726
+    I:ItemFoodMeatStew=31730
+    I:ItemFoodSmallAppleGold=31735
+    I:ItemFoodWitherMeat=31731
+    I:ItemMeatID=31738
+    I:ItemMeatMorsel=31739
+    I:ItemMiscBookRuined=3587
+    I:ItemMiscGigaGear=3588
+    I:ItemMiscRing=3589
+    I:ItemMiscSoulFiery=3590
+    I:ItemMiscSoulFire=3591
+    I:ItemPartsAncient=3592
+    I:ItemShardDiamond=3593
+    I:ItemShardEmerald=3594
+    I:ItemShardGold=3595
+    I:ItemShardIron=3596
+    I:ItemShardNetherStar=3597
+    I:ItemSpawnCard=3598
+    I:ItemSpawnCardCreeperGirl=3599
+    I:ItemSpawnCardEnderGirl=3600
+    I:ItemSpawnCardSlimeGirl=3601
+    I:ItemSpawnScroll=3602
+    I:ItemSpawnScrollHolstaurus=3603
+    I:ItemSpawnScrollMaid=3604
+    I:ItemSpawnScrollMerchant=3605
+    I:MiscCoil=3606
+    I:MiscFurnaceFuel=31725
+    I:MonsterPlacer=3608
+    I:ToolChainsawAncient=3609
+    I:ToolDrillAncient=3610
+    I:WeaponBookBlades=3611
+    I:WeaponBookBlazing=3612
+    I:WeaponBookEnder=3613
+    I:WeaponBookFreezing=3614
+    I:WeaponBookMetal=3615
+    I:WeaponBookNature=3616
+    I:WeaponBookNightmare=3617
+    I:WeaponBookSkin=3618
+    I:WeaponBookWither=3619
+    I:WeaponFanFire=3620
+    I:WeaponFanIce=3621
+    I:WeaponRifleAncient=3622
+    I:WeaponWandBlaze=3623
+    I:WeaponWandEnder=31699
+}
+
+
+####################
+# modifier
+####################
+
+modifier {
+    # Percentage amount. Default value: 100
+    S:" "= 
+    I:Tier1attackDamage=100
+    I:Tier1maxHealth=100
+    I:Tier2attackDamage=100
+    I:Tier2maxHealth=100
+    I:Tier3attackDamage=100
+    I:Tier3maxHealth=100
+}
+
+

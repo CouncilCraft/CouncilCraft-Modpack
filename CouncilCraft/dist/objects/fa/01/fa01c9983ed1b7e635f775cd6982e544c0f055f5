@@ -1,0 +1,240 @@
+[
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "SpellCard",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "YouryokuSpoiler",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Umiware",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "PrivateSquare",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "AjaRedStoneEffect",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Kinkakuzi",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "MiniHakkero",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Sukima",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "DanmakuCreeper",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "NazrinPendulum",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "HenyoriLaser",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "NormalShot",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "THFairy",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Hisou",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "ColorLightningBolt",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "BrilliantDragonBullet",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Object Eye",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "SilverKnife",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "THFairyCirno",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "NormalLaser",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "SetLaser",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "mod_thKaguya.Onmyoudama",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "MarisaBroom",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "SanaeWind",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Mazinkyoukan",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "MiracleCircle",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "HomingAmulet",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "mod_thKaguya.NuclearShot",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "YuukaParasol",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "HakurouReflecter",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "MasterSpark",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "DivineSpirit",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "mod_thKaguya.MusouFuuin",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "HakureiShield",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  }
+]

@@ -1,0 +1,99 @@
+# Configuration file
+
+####################
+# blockid
+####################
+
+blockid {
+    I:DanmakuCraftingTable=3048
+    I:DivineSpirit=3049
+}
+
+
+####################
+# entityid
+####################
+
+entityid {
+    I:"Brilliant Dragon Bullet"=531
+    I:Cirno=561
+    I:"Color LightningBolt"=532
+    I:"Danmaku Creeper"=557
+    I:"Divine Spirit"=562
+    I:"Effect of Red Stone of Aja"=551
+    I:Fairy=530
+    I:"Hakurou Reflecter"=559
+    I:"Hisou Sword"=538
+    I:"Homing Amulet"=548
+    I:"Kinkakuzi "=533
+    I:"Marisa Broom"=552
+    I:"MasterSpark "=547
+    I:"Mazinkyoukan "=537
+    I:"MiniHakkero "=546
+    I:"Miracle Magic Square"=542
+    I:"Miracle of Moses"=544
+    I:"Musou Fuuin"=556
+    I:"Nazrin Pendulum"=540
+    I:"Normal Laser"=554
+    I:"Normal Shot"=553
+    I:"Nuclear Shot"=558
+    I:"Object Eye"=539
+    I:Onmyoudama=560
+    I:"Sakuya's Pocket Watch"=534
+    I:"Sanae Wind"=543
+    I:"Set Laser"=549
+    I:"Silver Knife"=535
+    I:"Spell Card"=555
+    I:"Sukima "=536
+    I:"Youryoku Spoiler"=545
+    I:"Yuuka Parasol"=550
+}
+
+
+####################
+# game mode
+####################
+
+"game mode" {
+    B:"Danmaku 1 Kill Mode"=false
+    I:"Danmaku Level"=2
+    I:"Laser Max Number"=8
+    I:"Shot Max Number"=32
+}
+
+
+####################
+# itemid
+####################
+
+itemid {
+    I:"ItemID Base"=4360
+}
+
+
+####################
+# other
+####################
+
+other {
+    B:"Can Use Wall-Passing Chisel"=true
+    I:"Fairy Spawn Rate(%)"=100
+    B:"Is Spawn Hanabeeper"=false
+    B:"MasterSpark destroys blocks"=true
+    B:"Spawn Fairy"=true
+    B:"Using default Gap(Sukima)SE"=true
+    B:"Using the MasterSpark"=true
+}
+
+
+####################
+# se vol
+####################
+
+"se vol" {
+    I:HisoutenVol=20
+    I:MasterSparkVol=50
+    I:SpellCarVol=50
+}
+
+

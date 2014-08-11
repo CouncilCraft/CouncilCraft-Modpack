@@ -1,0 +1,65 @@
+# Configuration file
+
+####################
+# danmakucreeper
+####################
+
+danmakucreeper {
+    S:biomegroups <DANMAKUCREEPER_DEFAULT>
+    B:canSpawn=true
+    I:frequency=8
+    I:maxChunk=4
+    I:maxLightlevel=-1
+    I:maxSpawn=3
+    I:maxSpawnHeight=256
+    I:minLightlevel=-1
+    I:minSpawn=2
+    I:minSpawnHeight=0
+    S:opaqueBlock=all
+    S:spawnBlockBlacklist <>
+    S:type=MONSTER
+}
+
+
+####################
+# thfairy
+####################
+
+thfairy {
+    S:biomegroups <THFAIRY_DEFAULT>
+    B:canSpawn=true
+    I:frequency=3
+    I:maxChunk=10
+    I:maxLightlevel=-1
+    I:maxSpawn=10
+    I:maxSpawnHeight=256
+    I:minLightlevel=-1
+    I:minSpawn=3
+    I:minSpawnHeight=0
+    S:opaqueBlock=all
+    S:spawnBlockBlacklist <>
+    S:type=CREATURE
+}
+
+
+####################
+# thfairycirno
+####################
+
+thfairycirno {
+    S:biomegroups <THFAIRYCIRNO_DEFAULT>
+    B:canSpawn=true
+    I:frequency=1
+    I:maxChunk=1
+    I:maxLightlevel=-1
+    I:maxSpawn=1
+    I:maxSpawnHeight=256
+    I:minLightlevel=-1
+    I:minSpawn=1
+    I:minSpawnHeight=0
+    S:opaqueBlock=all
+    S:spawnBlockBlacklist <>
+    S:type=CREATURE
+}
+
+

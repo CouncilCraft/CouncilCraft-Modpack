@@ -1,0 +1,307 @@
+# Configuration file
+
+####################
+# debugger
+####################
+
+debugger {
+    B:debug_mode=false
+}
+
+
+####################
+# fun stuff
+####################
+
+"fun stuff" {
+    I:blockFunStuff=2724
+    I:ingotFunStuff=30324
+    I:moltenFairy=2725
+    I:moltenPokefennium=2726
+}
+
+
+####################
+# mekanism
+####################
+
+mekanism {
+    I:moltenOsmium=2727
+    I:moltenRefinedGlowstone=2728
+}
+
+
+####################
+# metallurgy 3 base
+####################
+
+"metallurgy 3 base" {
+    I:moltenAngmallen=2685
+    I:moltenDamascusSteel=2686
+    I:moltenHepatizon=2687
+    I:moltenManganese=2688
+}
+
+
+####################
+# metallurgy 3 base alloy ratios
+####################
+
+"metallurgy 3 base alloy ratios" {
+    # Gold, Iron, Angmallen
+    I:angmallenRatio <
+        1
+        1
+        2
+     >
+
+    # Iron, Bronze, Damascus Steel
+    I:damascusSteelRatio <
+        1
+        1
+        2
+     >
+
+    # Gold, Bronze, Hepatizon
+    I:hepatizonRatio <
+        1
+        1
+        2
+     >
+
+    # Iron, Maganese, Steel
+    I:steelRatio <
+        1
+        1
+        2
+     >
+}
+
+
+####################
+# metallurgy 3 end
+####################
+
+"metallurgy 3 end" {
+    I:moltenDesichalkos=2689
+    I:moltenEximite=2690
+    I:moltenMeutoite=2691
+}
+
+
+####################
+# metallurgy 3 end alloy ratios
+####################
+
+"metallurgy 3 end alloy ratios" {
+    # Eximite, Meutoite, Desichalkos
+    I:desichalkosRatio <
+        1
+        1
+        2
+     >
+}
+
+
+####################
+# metallurgy 3 fantasy
+####################
+
+"metallurgy 3 fantasy" {
+    I:moltenAdamantine=2692
+    I:moltenAstralSilver=2693
+    I:moltenAtlarus=2694
+    I:moltenBlackSteel=2695
+    I:moltenCarmot=2696
+    I:moltenCelenegil=2697
+    I:moltenDeepIron=2698
+    I:moltenHaderoth=2699
+    I:moltenInfuscolium=2700
+    I:moltenMithril=2701
+    I:moltenOrichalcum=2702
+    I:moltenOureclase=2703
+    I:moltenPrometheum=2704
+    I:moltenQuicksilver=2705
+    I:moltenRubracium=2706
+    I:moltenTartarite=2707
+}
+
+
+####################
+# metallurgy 3 fantasy alloy ratios
+####################
+
+"metallurgy 3 fantasy alloy ratios" {
+    # Infuscolium, Deep Iron, Black Steel
+    I:blackSteelRatio <
+        1
+        1
+        2
+     >
+
+    # Orichalcum, Platinum, Celenegil
+    I:celenegilRatio <
+        1
+        1
+        2
+     >
+
+    # Mithril, Rubracium, Haderoth
+    I:haderothRatio <
+        1
+        1
+        2
+     >
+
+    # Mithril, Silver, Quicksilver
+    I:quicksilverRatio <
+        1
+        1
+        2
+     >
+
+    # Adamantine, Atlarus, Tartarite
+    I:tartariteRatio <
+        1
+        1
+        2
+     >
+}
+
+
+####################
+# metallurgy 3 nether
+####################
+
+"metallurgy 3 nether" {
+    I:moltenAlduorite=2708
+    I:moltenAmordrine=2709
+    I:moltenCeruclase=2710
+    I:moltenIgnatius=2711
+    I:moltenInolashite=2712
+    I:moltenKalendrite=2713
+    I:moltenLemurite=2714
+    I:moltenMidasium=2715
+    I:moltenSanguinite=2716
+    I:moltenShadowIron=2717
+    I:moltenShadowSteel=2718
+    I:moltenVulcanite=2719
+    I:moltenVyroxeres=2720
+}
+
+
+####################
+# metallurgy 3 nether alloy ratios
+####################
+
+"metallurgy 3 nether alloy ratios" {
+    # Kalendrite, Platinum, Amordrine
+    I:amordrineRatio <
+        1
+        1
+        2
+     >
+
+    # Alduorite, Ceruclase, Inolashite
+    I:inolashiteRatio <
+        1
+        1
+        2
+     >
+
+    # Shadow Iron, Leumrite, Shadow Steel
+    I:shadowSteelRatio <
+        1
+        1
+        2
+     >
+}
+
+
+####################
+# metallurgy 3 precious
+####################
+
+"metallurgy 3 precious" {
+    I:moltenBrass=2721
+    I:moltenPlatinum=2722
+    I:moltenZinc=2723
+}
+
+
+####################
+# metallurgy 3 precious alloy ratios
+####################
+
+"metallurgy 3 precious alloy ratios" {
+    # Copper, Zinc, Brass
+    I:brassRatio <
+        1
+        1
+        2
+     >
+
+    # Gold, Silver, Electrum
+    I:electrumRatio <
+        1
+        1
+        2
+     >
+}
+
+
+####################
+# misc_items
+####################
+
+misc_items {
+    I:itemExtraBucket=26050
+}
+
+
+####################
+# mod support
+####################
+
+"mod support" {
+    B:appliedEnergistics=true
+    B:biomesOPlenty=true
+    B:funStuff=true
+    B:mekanism=true
+    B:metallurgy=true
+    B:natura=true
+}
+
+
+####################
+# parts
+####################
+
+parts {
+    I:arrowhead=30044
+    I:axeHead=30045
+    I:battelSign=30046
+    I:binding=30047
+    I:chiselHead=30048
+    I:chunk=30049
+    I:crossbar=30050
+    I:excavatorHead=30051
+    I:frypanHead=30052
+    I:fullGuard=30053
+    I:hammerHead=30054
+    I:knifeBlade=30055
+    I:largeGuard=30056
+    I:largeSwordBlade=30057
+    I:largeplate=30058
+    I:lumberaxeHead=30059
+    I:mediumGuard=30060
+    I:pickaxeHead=30061
+    I:scytheHead=30062
+    I:shovelHead=30063
+    I:swordBlade=30064
+    I:toolrod=30065
+    I:toughbind=30066
+    I:toughrod=30067
+}
+
+

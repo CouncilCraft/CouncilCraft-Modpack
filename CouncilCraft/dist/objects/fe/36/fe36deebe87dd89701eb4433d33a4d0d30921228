@@ -1,0 +1,10 @@
+#cfg_renderHacking = Override RenderItem.
+#cfg_startVehicleEntityID = starting auto assigned ID.
+#cfg_isModelAlphaBlend = true: AlphaBlend(request power), false: AlphaTest(more fast)
+#
+#Tue Jul 29 22:15:13 PDT 2014
+cfg_isModelAlphaBlend=true
+cfg_startVehicleEntityID=2176
+cfg_isDebugView=false
+cfg_isDebugMessage=true
+cfg_renderHacking=true

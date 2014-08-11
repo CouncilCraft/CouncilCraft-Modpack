@@ -1,0 +1,27 @@
+#Properties for JourneyMap 3.3.2
+#Wed Jul 30 00:37:18 PDT 2014
+announce_modloaded=true
+browser_poll=1900
+chunk_offset=5
+logging_level=INFO
+mapgui_enabled=true
+preference_minimap_fontscale=2.0
+preference_minimap_hotkeys=true
+preference_minimap_position=BottomRight
+preference_minimap_shape=SmallSquare
+preference_minimap_showfps=true
+preference_show_animals=true
+preference_show_caves=true
+preference_show_grid=true
+preference_show_minimap=false
+preference_show_mobs=true
+preference_show_pets=true
+preference_show_players=true
+preference_show_villagers=true
+preference_show_waypoints=true
+render_cavelighting_enabled=true
+update_check_enabled=true
+update_timer_chunks=2000
+update_timer_entities=1000
+webserver_enabled=true
+webserver_port=8080

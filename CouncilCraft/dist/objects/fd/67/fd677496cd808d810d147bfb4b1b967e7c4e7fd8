@@ -1,0 +1,1140 @@
+# Mob Spawn Controls Configuration for "InfernoMobs"
+#
+?ReadOnly=false
+#
+?ItemWeight=8
+?MinCount=4
+?MaxCount=4
+#
+# Creature Type Configuration
+~monster:Cinder
+~creature:
+~ambient:
+~waterCreature:
+~UNKNOWN:
+#
+# Biome Groupings
+#
+# Spawn Settings
+#
+Master~monster:
+Master~creature:
+Master~ambient:
+Master~waterCreature:
+#
+#
+BOP.Alps~monster:Cinder(8-1-3)
+BOP.Alps~creature:
+BOP.Alps~ambient:
+BOP.Alps~waterCreature:
+#
+BOP.Alps Forest~monster:Cinder(8-1-3)
+BOP.Alps Forest~creature:
+BOP.Alps Forest~ambient:
+BOP.Alps Forest~waterCreature:
+#
+BOP.Alps Mountainside~monster:Cinder(8-1-3)
+BOP.Alps Mountainside~creature:
+BOP.Alps Mountainside~ambient:
+BOP.Alps Mountainside~waterCreature:
+#
+BOP.Arctic~monster:Cinder(8-1-3)
+BOP.Arctic~creature:
+BOP.Arctic~ambient:
+BOP.Arctic~waterCreature:
+#
+BOP.Autumn Hills~monster:Cinder(8-1-3)
+BOP.Autumn Hills~creature:
+BOP.Autumn Hills~ambient:
+BOP.Autumn Hills~waterCreature:
+#
+BOP.Badlands~monster:Cinder(8-1-3)
+BOP.Badlands~creature:
+BOP.Badlands~ambient:
+BOP.Badlands~waterCreature:
+#
+BOP.Bamboo Forest~monster:Cinder(8-1-3)
+BOP.Bamboo Forest~creature:
+BOP.Bamboo Forest~ambient:
+BOP.Bamboo Forest~waterCreature:
+#
+BOP.Bayou~monster:Cinder(8-1-3)
+BOP.Bayou~creature:
+BOP.Bayou~ambient:
+BOP.Bayou~waterCreature:
+#
+BOP.Birch Forest~monster:Cinder(8-1-3)
+BOP.Birch Forest~creature:
+BOP.Birch Forest~ambient:
+BOP.Birch Forest~waterCreature:
+#
+BOP.Blessed Bog~monster:Cinder(8-1-3)
+BOP.Blessed Bog~creature:
+BOP.Blessed Bog~ambient:
+BOP.Blessed Bog~waterCreature:
+#
+BOP.Bloody Heap~monster:Cinder(8-1-3)
+BOP.Bloody Heap~creature:
+BOP.Bloody Heap~ambient:
+BOP.Bloody Heap~waterCreature:
+#
+BOP.Bog~monster:Cinder(8-1-3)
+BOP.Bog~creature:
+BOP.Bog~ambient:
+BOP.Bog~waterCreature:
+#
+BOP.Boneyard~monster:Cinder(8-1-3)
+BOP.Boneyard~creature:
+BOP.Boneyard~ambient:
+BOP.Boneyard~waterCreature:
+#
+BOP.Boreal Forest~monster:Cinder(8-1-3)
+BOP.Boreal Forest~creature:
+BOP.Boreal Forest~ambient:
+BOP.Boreal Forest~waterCreature:
+#
+BOP.Brushland~monster:Cinder(8-1-3)
+BOP.Brushland~creature:
+BOP.Brushland~ambient:
+BOP.Brushland~waterCreature:
+#
+BOP.Canyon~monster:Cinder(8-1-3)
+BOP.Canyon~creature:
+BOP.Canyon~ambient:
+BOP.Canyon~waterCreature:
+#
+BOP.Canyon Ravine~monster:Cinder(8-1-3)
+BOP.Canyon Ravine~creature:
+BOP.Canyon Ravine~ambient:
+BOP.Canyon Ravine~waterCreature:
+#
+BOP.Chaparral~monster:Cinder(8-1-3)
+BOP.Chaparral~creature:
+BOP.Chaparral~ambient:
+BOP.Chaparral~waterCreature:
+#
+BOP.Cherry Blossom Grove~monster:Cinder(8-1-3)
+BOP.Cherry Blossom Grove~creature:
+BOP.Cherry Blossom Grove~ambient:
+BOP.Cherry Blossom Grove~waterCreature:
+#
+BOP.Coniferous Forest~monster:Cinder(8-1-3)
+BOP.Coniferous Forest~creature:
+BOP.Coniferous Forest~ambient:
+BOP.Coniferous Forest~waterCreature:
+#
+BOP.Coral Reef~monster:Cinder(8-1-3)
+BOP.Coral Reef~creature:
+BOP.Coral Reef~ambient:
+BOP.Coral Reef~waterCreature:
+#
+BOP.Corrupted Sands~monster:Cinder(8-1-3)
+BOP.Corrupted Sands~creature:
+BOP.Corrupted Sands~ambient:
+BOP.Corrupted Sands~waterCreature:
+#
+BOP.Crag~monster:Cinder(8-1-3)
+BOP.Crag~creature:
+BOP.Crag~ambient:
+BOP.Crag~waterCreature:
+#
+BOP.Dead Forest~monster:Cinder(8-1-3)
+BOP.Dead Forest~creature:
+BOP.Dead Forest~ambient:
+BOP.Dead Forest~waterCreature:
+#
+BOP.Dead Swamp~monster:Cinder(8-1-3)
+BOP.Dead Swamp~creature:
+BOP.Dead Swamp~ambient:
+BOP.Dead Swamp~waterCreature:
+#
+BOP.Deadlands~monster:Cinder(8-1-3)
+BOP.Deadlands~creature:
+BOP.Deadlands~ambient:
+BOP.Deadlands~waterCreature:
+#
+BOP.Deciduous Forest~monster:Cinder(8-1-3)
+BOP.Deciduous Forest~creature:
+BOP.Deciduous Forest~ambient:
+BOP.Deciduous Forest~waterCreature:
+#
+BOP.Desert~monster:Cinder(8-1-3)
+BOP.Desert~creature:
+BOP.Desert~ambient:
+BOP.Desert~waterCreature:
+#
+BOP.Dunes~monster:Cinder(8-1-3)
+BOP.Dunes~creature:
+BOP.Dunes~ambient:
+BOP.Dunes~waterCreature:
+#
+BOP.Extreme Hills~monster:Cinder(8-1-3)
+BOP.Extreme Hills~creature:
+BOP.Extreme Hills~ambient:
+BOP.Extreme Hills~waterCreature:
+#
+BOP.Fen~monster:Cinder(8-1-3)
+BOP.Fen~creature:
+BOP.Fen~ambient:
+BOP.Fen~waterCreature:
+#
+BOP.Field~monster:Cinder(8-1-3)
+BOP.Field~creature:
+BOP.Field~ambient:
+BOP.Field~waterCreature:
+#
+BOP.Forest~monster:Cinder(8-1-3)
+BOP.Forest~creature:
+BOP.Forest~ambient:
+BOP.Forest~waterCreature:
+#
+BOP.ForestHills~monster:Cinder(8-1-3)
+BOP.ForestHills~creature:
+BOP.ForestHills~ambient:
+BOP.ForestHills~waterCreature:
+#
+BOP.Forested Field~monster:Cinder(8-1-3)
+BOP.Forested Field~creature:
+BOP.Forested Field~ambient:
+BOP.Forested Field~waterCreature:
+#
+BOP.Frost Forest~monster:Cinder(8-1-3)
+BOP.Frost Forest~creature:
+BOP.Frost Forest~ambient:
+BOP.Frost Forest~waterCreature:
+#
+BOP.Fungi Forest~monster:Cinder(8-1-3)
+BOP.Fungi Forest~creature:
+BOP.Fungi Forest~ambient:
+BOP.Fungi Forest~waterCreature:
+#
+BOP.Garden~monster:Cinder(8-1-3)
+BOP.Garden~creature:
+BOP.Garden~ambient:
+BOP.Garden~waterCreature:
+#
+BOP.Glacier~monster:Cinder(8-1-3)
+BOP.Glacier~creature:
+BOP.Glacier~ambient:
+BOP.Glacier~waterCreature:
+#
+BOP.Grassland~monster:Cinder(8-1-3)
+BOP.Grassland~creature:
+BOP.Grassland~ambient:
+BOP.Grassland~waterCreature:
+#
+BOP.Gravel Beach~monster:Cinder(8-1-3)
+BOP.Gravel Beach~creature:
+BOP.Gravel Beach~ambient:
+BOP.Gravel Beach~waterCreature:
+#
+BOP.Grove~monster:Cinder(8-1-3)
+BOP.Grove~creature:
+BOP.Grove~ambient:
+BOP.Grove~waterCreature:
+#
+BOP.Heathland~monster:Cinder(8-1-3)
+BOP.Heathland~creature:
+BOP.Heathland~ambient:
+BOP.Heathland~waterCreature:
+#
+BOP.Highland~monster:Cinder(8-1-3)
+BOP.Highland~creature:
+BOP.Highland~ambient:
+BOP.Highland~waterCreature:
+#
+BOP.Hot Springs~monster:Cinder(8-1-3)
+BOP.Hot Springs~creature:
+BOP.Hot Springs~ambient:
+BOP.Hot Springs~waterCreature:
+#
+BOP.Icy Hills~monster:Cinder(8-1-3)
+BOP.Icy Hills~creature:
+BOP.Icy Hills~ambient:
+BOP.Icy Hills~waterCreature:
+#
+BOP.Jade Cliffs~monster:Cinder(8-1-3)
+BOP.Jade Cliffs~creature:
+BOP.Jade Cliffs~ambient:
+BOP.Jade Cliffs~waterCreature:
+#
+BOP.Jungle~monster:Cinder(8-1-3)
+BOP.Jungle~creature:
+BOP.Jungle~ambient:
+BOP.Jungle~waterCreature:
+#
+BOP.JungleHills~monster:Cinder(8-1-3)
+BOP.JungleHills~creature:
+BOP.JungleHills~ambient:
+BOP.JungleHills~waterCreature:
+#
+BOP.Kelp Forest~monster:Cinder(8-1-3)
+BOP.Kelp Forest~creature:
+BOP.Kelp Forest~ambient:
+BOP.Kelp Forest~waterCreature:
+#
+BOP.Lavender Fields~monster:Cinder(8-1-3)
+BOP.Lavender Fields~creature:
+BOP.Lavender Fields~ambient:
+BOP.Lavender Fields~waterCreature:
+#
+BOP.Lush Desert~monster:Cinder(8-1-3)
+BOP.Lush Desert~creature:
+BOP.Lush Desert~ambient:
+BOP.Lush Desert~waterCreature:
+#
+BOP.Lush Swamp~monster:Cinder(8-1-3)
+BOP.Lush Swamp~creature:
+BOP.Lush Swamp~ambient:
+BOP.Lush Swamp~waterCreature:
+#
+BOP.Majestic Meadow~monster:Cinder(8-1-3)
+BOP.Majestic Meadow~creature:
+BOP.Majestic Meadow~ambient:
+BOP.Majestic Meadow~waterCreature:
+#
+BOP.Mangrove~monster:Cinder(8-1-3)
+BOP.Mangrove~creature:
+BOP.Mangrove~ambient:
+BOP.Mangrove~waterCreature:
+#
+BOP.Maple Woods~monster:Cinder(8-1-3)
+BOP.Maple Woods~creature:
+BOP.Maple Woods~ambient:
+BOP.Maple Woods~waterCreature:
+#
+BOP.Marsh~monster:Cinder(8-1-3)
+BOP.Marsh~creature:
+BOP.Marsh~ambient:
+BOP.Marsh~waterCreature:
+#
+BOP.Meadow~monster:Cinder(8-1-3)
+BOP.Meadow~creature:
+BOP.Meadow~ambient:
+BOP.Meadow~waterCreature:
+#
+BOP.Meadow Forest~monster:Cinder(8-1-3)
+BOP.Meadow Forest~creature:
+BOP.Meadow Forest~ambient:
+BOP.Meadow Forest~waterCreature:
+#
+BOP.Mesa~monster:Cinder(8-1-3)
+BOP.Mesa~creature:
+BOP.Mesa~ambient:
+BOP.Mesa~waterCreature:
+#
+BOP.Moor~monster:Cinder(8-1-3)
+BOP.Moor~creature:
+BOP.Moor~ambient:
+BOP.Moor~waterCreature:
+#
+BOP.Mountain~monster:Cinder(8-1-3)
+BOP.Mountain~creature:
+BOP.Mountain~ambient:
+BOP.Mountain~waterCreature:
+#
+BOP.Mystic Grove~monster:Cinder(8-1-3)
+BOP.Mystic Grove~creature:
+BOP.Mystic Grove~ambient:
+BOP.Mystic Grove~waterCreature:
+#
+BOP.Nether~monster:Cinder(8-1-3)
+BOP.Nether~creature:
+BOP.Nether~ambient:
+BOP.Nether~waterCreature:
+#
+BOP.Oasis~monster:Cinder(8-1-3)
+BOP.Oasis~creature:
+BOP.Oasis~ambient:
+BOP.Oasis~waterCreature:
+#
+BOP.Oceanic Abyss~monster:Cinder(8-1-3)
+BOP.Oceanic Abyss~creature:
+BOP.Oceanic Abyss~ambient:
+BOP.Oceanic Abyss~waterCreature:
+#
+BOP.Ominous Woods~monster:Cinder(8-1-3)
+BOP.Ominous Woods~creature:
+BOP.Ominous Woods~ambient:
+BOP.Ominous Woods~waterCreature:
+#
+BOP.Orchard~monster:Cinder(8-1-3)
+BOP.Orchard~creature:
+BOP.Orchard~ambient:
+BOP.Orchard~waterCreature:
+#
+BOP.Origin Valley~monster:Cinder(8-1-3)
+BOP.Origin Valley~creature:
+BOP.Origin Valley~ambient:
+BOP.Origin Valley~waterCreature:
+#
+BOP.Outback~monster:Cinder(8-1-3)
+BOP.Outback~creature:
+BOP.Outback~ambient:
+BOP.Outback~waterCreature:
+#
+BOP.Overgrown Beach~monster:Cinder(8-1-3)
+BOP.Overgrown Beach~creature:
+BOP.Overgrown Beach~ambient:
+BOP.Overgrown Beach~waterCreature:
+#
+BOP.Overgrown Greens~monster:Cinder(8-1-3)
+BOP.Overgrown Greens~creature:
+BOP.Overgrown Greens~ambient:
+BOP.Overgrown Greens~waterCreature:
+#
+BOP.Pasture~monster:Cinder(8-1-3)
+BOP.Pasture~creature:
+BOP.Pasture~ambient:
+BOP.Pasture~waterCreature:
+#
+BOP.Pasture Meadow~monster:Cinder(8-1-3)
+BOP.Pasture Meadow~creature:
+BOP.Pasture Meadow~ambient:
+BOP.Pasture Meadow~waterCreature:
+#
+BOP.Phantasmagoric Inferno~monster:Cinder(8-1-3)
+BOP.Phantasmagoric Inferno~creature:
+BOP.Phantasmagoric Inferno~ambient:
+BOP.Phantasmagoric Inferno~waterCreature:
+#
+BOP.Plains~monster:Cinder(8-1-3)
+BOP.Plains~creature:
+BOP.Plains~ambient:
+BOP.Plains~waterCreature:
+#
+BOP.Polar~monster:Cinder(8-1-3)
+BOP.Polar~creature:
+BOP.Polar~ambient:
+BOP.Polar~waterCreature:
+#
+BOP.Prairie~monster:Cinder(8-1-3)
+BOP.Prairie~creature:
+BOP.Prairie~ambient:
+BOP.Prairie~waterCreature:
+#
+BOP.Quagmire~monster:Cinder(8-1-3)
+BOP.Quagmire~creature:
+BOP.Quagmire~ambient:
+BOP.Quagmire~waterCreature:
+#
+BOP.Rainforest~monster:Cinder(8-1-3)
+BOP.Rainforest~creature:
+BOP.Rainforest~ambient:
+BOP.Rainforest~waterCreature:
+#
+BOP.Redwood Forest~monster:Cinder(8-1-3)
+BOP.Redwood Forest~creature:
+BOP.Redwood Forest~ambient:
+BOP.Redwood Forest~waterCreature:
+#
+BOP.Sacred Springs~monster:Cinder(8-1-3)
+BOP.Sacred Springs~creature:
+BOP.Sacred Springs~ambient:
+BOP.Sacred Springs~waterCreature:
+#
+BOP.Savanna~monster:Cinder(8-1-3)
+BOP.Savanna~creature:
+BOP.Savanna~ambient:
+BOP.Savanna~waterCreature:
+#
+BOP.Savanna Plateau~monster:Cinder(8-1-3)
+BOP.Savanna Plateau~creature:
+BOP.Savanna Plateau~ambient:
+BOP.Savanna Plateau~waterCreature:
+#
+BOP.Scrubland~monster:Cinder(8-1-3)
+BOP.Scrubland~creature:
+BOP.Scrubland~ambient:
+BOP.Scrubland~waterCreature:
+#
+BOP.Seasonal Forest~monster:Cinder(8-1-3)
+BOP.Seasonal Forest~creature:
+BOP.Seasonal Forest~ambient:
+BOP.Seasonal Forest~waterCreature:
+#
+BOP.Seasonal Spruce Forest~monster:Cinder(8-1-3)
+BOP.Seasonal Spruce Forest~creature:
+BOP.Seasonal Spruce Forest~ambient:
+BOP.Seasonal Spruce Forest~waterCreature:
+#
+BOP.Shield~monster:Cinder(8-1-3)
+BOP.Shield~creature:
+BOP.Shield~ambient:
+BOP.Shield~waterCreature:
+#
+BOP.Shore~monster:Cinder(8-1-3)
+BOP.Shore~creature:
+BOP.Shore~ambient:
+BOP.Shore~waterCreature:
+#
+BOP.Shrubland~monster:Cinder(8-1-3)
+BOP.Shrubland~creature:
+BOP.Shrubland~ambient:
+BOP.Shrubland~waterCreature:
+#
+BOP.Silkglades~monster:Cinder(8-1-3)
+BOP.Silkglades~creature:
+BOP.Silkglades~ambient:
+BOP.Silkglades~waterCreature:
+#
+BOP.Sludgepit~monster:Cinder(8-1-3)
+BOP.Sludgepit~creature:
+BOP.Sludgepit~ambient:
+BOP.Sludgepit~waterCreature:
+#
+BOP.Snowy Coniferous Forest~monster:Cinder(8-1-3)
+BOP.Snowy Coniferous Forest~creature:
+BOP.Snowy Coniferous Forest~ambient:
+BOP.Snowy Coniferous Forest~waterCreature:
+#
+BOP.Snowy Dead Forest~monster:Cinder(8-1-3)
+BOP.Snowy Dead Forest~creature:
+BOP.Snowy Dead Forest~ambient:
+BOP.Snowy Dead Forest~waterCreature:
+#
+BOP.Spruce Woods~monster:Cinder(8-1-3)
+BOP.Spruce Woods~creature:
+BOP.Spruce Woods~ambient:
+BOP.Spruce Woods~waterCreature:
+#
+BOP.Steppe~monster:Cinder(8-1-3)
+BOP.Steppe~creature:
+BOP.Steppe~ambient:
+BOP.Steppe~waterCreature:
+#
+BOP.Sublime Shrubland~monster:Cinder(8-1-3)
+BOP.Sublime Shrubland~creature:
+BOP.Sublime Shrubland~ambient:
+BOP.Sublime Shrubland~waterCreature:
+#
+BOP.Swampland~monster:Cinder(8-1-3)
+BOP.Swampland~creature:
+BOP.Swampland~ambient:
+BOP.Swampland~waterCreature:
+#
+BOP.Taiga~monster:Cinder(8-1-3)
+BOP.Taiga~creature:
+BOP.Taiga~ambient:
+BOP.Taiga~waterCreature:
+#
+BOP.TaigaHills~monster:Cinder(8-1-3)
+BOP.TaigaHills~creature:
+BOP.TaigaHills~ambient:
+BOP.TaigaHills~waterCreature:
+#
+BOP.Temperate Rainforest~monster:Cinder(8-1-3)
+BOP.Temperate Rainforest~creature:
+BOP.Temperate Rainforest~ambient:
+BOP.Temperate Rainforest~waterCreature:
+#
+BOP.Thick Ominous Woods~monster:Cinder(8-1-3)
+BOP.Thick Ominous Woods~creature:
+BOP.Thick Ominous Woods~ambient:
+BOP.Thick Ominous Woods~waterCreature:
+#
+BOP.Thick Shrubland~monster:Cinder(8-1-3)
+BOP.Thick Shrubland~creature:
+BOP.Thick Shrubland~ambient:
+BOP.Thick Shrubland~waterCreature:
+#
+BOP.Thicket~monster:Cinder(8-1-3)
+BOP.Thicket~creature:
+BOP.Thicket~ambient:
+BOP.Thicket~waterCreature:
+#
+BOP.Thinned Mystic Grove~monster:Cinder(8-1-3)
+BOP.Thinned Mystic Grove~creature:
+BOP.Thinned Mystic Grove~ambient:
+BOP.Thinned Mystic Grove~waterCreature:
+#
+BOP.Thinned Pasture~monster:Cinder(8-1-3)
+BOP.Thinned Pasture~creature:
+BOP.Thinned Pasture~ambient:
+BOP.Thinned Pasture~waterCreature:
+#
+BOP.Thinned Timber~monster:Cinder(8-1-3)
+BOP.Thinned Timber~creature:
+BOP.Thinned Timber~ambient:
+BOP.Thinned Timber~waterCreature:
+#
+BOP.Timber~monster:Cinder(8-1-3)
+BOP.Timber~creature:
+BOP.Timber~ambient:
+BOP.Timber~waterCreature:
+#
+BOP.Tropical Rainforest~monster:Cinder(8-1-3)
+BOP.Tropical Rainforest~creature:
+BOP.Tropical Rainforest~ambient:
+BOP.Tropical Rainforest~waterCreature:
+#
+BOP.Tropics~monster:Cinder(8-1-3)
+BOP.Tropics~creature:
+BOP.Tropics~ambient:
+BOP.Tropics~waterCreature:
+#
+BOP.Tropics Mountain~monster:Cinder(8-1-3)
+BOP.Tropics Mountain~creature:
+BOP.Tropics Mountain~ambient:
+BOP.Tropics Mountain~waterCreature:
+#
+BOP.Tundra~monster:Cinder(8-1-3)
+BOP.Tundra~creature:
+BOP.Tundra~ambient:
+BOP.Tundra~waterCreature:
+#
+BOP.Undergarden~monster:Cinder(8-1-3)
+BOP.Undergarden~creature:
+BOP.Undergarden~ambient:
+BOP.Undergarden~waterCreature:
+#
+BOP.Volcano~monster:Cinder(8-1-3)
+BOP.Volcano~creature:
+BOP.Volcano~ambient:
+BOP.Volcano~waterCreature:
+#
+BOP.Wasteland~monster:Cinder(8-1-3)
+BOP.Wasteland~creature:
+BOP.Wasteland~ambient:
+BOP.Wasteland~waterCreature:
+#
+BOP.Wetland~monster:Cinder(8-1-3)
+BOP.Wetland~creature:
+BOP.Wetland~ambient:
+BOP.Wetland~waterCreature:
+#
+BOP.Wonderous Woods~monster:Cinder(8-1-3)
+BOP.Wonderous Woods~creature:
+BOP.Wonderous Woods~ambient:
+BOP.Wonderous Woods~waterCreature:
+#
+BOP.Woodland~monster:Cinder(8-1-3)
+BOP.Woodland~creature:
+BOP.Woodland~ambient:
+BOP.Woodland~waterCreature:
+#
+HL.Alps~monster:
+HL.Alps~creature:
+HL.Alps~ambient:
+HL.Alps~waterCreature:
+#
+HL.Autumn Forest~monster:
+HL.Autumn Forest~creature:
+HL.Autumn Forest~ambient:
+HL.Autumn Forest~waterCreature:
+#
+HL.Badlands~monster:
+HL.Badlands~creature:
+HL.Badlands~ambient:
+HL.Badlands~waterCreature:
+#
+HL.Bald Hill~monster:
+HL.Bald Hill~creature:
+HL.Bald Hill~ambient:
+HL.Bald Hill~waterCreature:
+#
+HL.Birch Hills~monster:
+HL.Birch Hills~creature:
+HL.Birch Hills~ambient:
+HL.Birch Hills~waterCreature:
+#
+HL.Bog~monster:
+HL.Bog~creature:
+HL.Bog~ambient:
+HL.Bog~waterCreature:
+#
+HL.Canyon~monster:
+HL.Canyon~creature:
+HL.Canyon~ambient:
+HL.Canyon~waterCreature:
+#
+HL.Cliffs~monster:
+HL.Cliffs~creature:
+HL.Cliffs~ambient:
+HL.Cliffs~waterCreature:
+#
+HL.Desert Island~monster:
+HL.Desert Island~creature:
+HL.Desert Island~ambient:
+HL.Desert Island~waterCreature:
+#
+HL.Desert Mountains~monster:
+HL.Desert Mountains~creature:
+HL.Desert Mountains~ambient:
+HL.Desert Mountains~waterCreature:
+#
+HL.Dunes~monster:
+HL.Dunes~creature:
+HL.Dunes~ambient:
+HL.Dunes~waterCreature:
+#
+HL.Estuary~monster:
+HL.Estuary~creature:
+HL.Estuary~ambient:
+HL.Estuary~waterCreature:
+#
+HL.Flying Mountains~monster:
+HL.Flying Mountains~creature:
+HL.Flying Mountains~ambient:
+HL.Flying Mountains~waterCreature:
+#
+HL.Forest Island~monster:
+HL.Forest Island~creature:
+HL.Forest Island~ambient:
+HL.Forest Island~waterCreature:
+#
+HL.Glacier~monster:
+HL.Glacier~creature:
+HL.Glacier~ambient:
+HL.Glacier~waterCreature:
+#
+HL.Highlands~monster:
+HL.Highlands~creature:
+HL.Highlands~ambient:
+HL.Highlands~waterCreature:
+#
+HL.Lake~monster:
+HL.Lake~creature:
+HL.Lake~ambient:
+HL.Lake~waterCreature:
+#
+HL.Lowlands~monster:
+HL.Lowlands~creature:
+HL.Lowlands~ambient:
+HL.Lowlands~waterCreature:
+#
+HL.Meadow~monster:
+HL.Meadow~creature:
+HL.Meadow~ambient:
+HL.Meadow~waterCreature:
+#
+HL.Mesa~monster:
+HL.Mesa~creature:
+HL.Mesa~ambient:
+HL.Mesa~waterCreature:
+#
+HL.Oasis~monster:
+HL.Oasis~creature:
+HL.Oasis~ambient:
+HL.Oasis~waterCreature:
+#
+HL.Ocean~monster:
+HL.Ocean~creature:
+HL.Ocean~ambient:
+HL.Ocean~waterCreature:
+#
+HL.Outback~monster:
+HL.Outback~creature:
+HL.Outback~ambient:
+HL.Outback~waterCreature:
+#
+HL.Pinelands~monster:
+HL.Pinelands~creature:
+HL.Pinelands~ambient:
+HL.Pinelands~waterCreature:
+#
+HL.Rainforest~monster:
+HL.Rainforest~creature:
+HL.Rainforest~ambient:
+HL.Rainforest~waterCreature:
+#
+HL.Redwood Forest~monster:
+HL.Redwood Forest~creature:
+HL.Redwood Forest~ambient:
+HL.Redwood Forest~waterCreature:
+#
+HL.Rock Island~monster:
+HL.Rock Island~creature:
+HL.Rock Island~ambient:
+HL.Rock Island~waterCreature:
+#
+HL.Rock Mountains~monster:
+HL.Rock Mountains~creature:
+HL.Rock Mountains~ambient:
+HL.Rock Mountains~waterCreature:
+#
+HL.Sahel~monster:
+HL.Sahel~creature:
+HL.Sahel~ambient:
+HL.Sahel~waterCreature:
+#
+HL.Savannah~monster:
+HL.Savannah~creature:
+HL.Savannah~ambient:
+HL.Savannah~waterCreature:
+#
+HL.Shrubland~monster:
+HL.Shrubland~creature:
+HL.Shrubland~ambient:
+HL.Shrubland~waterCreature:
+#
+HL.Snow Mountains~monster:
+HL.Snow Mountains~creature:
+HL.Snow Mountains~ambient:
+HL.Snow Mountains~waterCreature:
+#
+HL.Steppe~monster:
+HL.Steppe~creature:
+HL.Steppe~ambient:
+HL.Steppe~waterCreature:
+#
+HL.Tall Pine Forest~monster:
+HL.Tall Pine Forest~creature:
+HL.Tall Pine Forest~ambient:
+HL.Tall Pine Forest~waterCreature:
+#
+HL.Tropical Islands~monster:
+HL.Tropical Islands~creature:
+HL.Tropical Islands~ambient:
+HL.Tropical Islands~waterCreature:
+#
+HL.Tropics~monster:
+HL.Tropics~creature:
+HL.Tropics~ambient:
+HL.Tropics~waterCreature:
+#
+HL.Tundra~monster:
+HL.Tundra~creature:
+HL.Tundra~ambient:
+HL.Tundra~waterCreature:
+#
+HL.Volcano Island~monster:
+HL.Volcano Island~creature:
+HL.Volcano Island~ambient:
+HL.Volcano Island~waterCreature:
+#
+HL.Woodland Mountains~monster:
+HL.Woodland Mountains~creature:
+HL.Woodland Mountains~ambient:
+HL.Woodland Mountains~waterCreature:
+#
+HL.Woodlands~monster:
+HL.Woodlands~creature:
+HL.Woodlands~ambient:
+HL.Woodlands~waterCreature:
+#
+Reika.DyeTrees.World.BiomeRainbowForest.Rainbow Forest~monster:Cinder(8-1-3)
+Reika.DyeTrees.World.BiomeRainbowForest.Rainbow Forest~creature:
+Reika.DyeTrees.World.BiomeRainbowForest.Rainbow Forest~ambient:
+Reika.DyeTrees.World.BiomeRainbowForest.Rainbow Forest~waterCreature:
+#
+TF.Clearing Border~monster:Cinder(8-1-3)
+TF.Clearing Border~creature:
+TF.Clearing Border~ambient:
+TF.Clearing Border~waterCreature:
+#
+TF.Dark Forest~monster:
+TF.Dark Forest~creature:
+TF.Dark Forest~ambient:
+TF.Dark Forest~waterCreature:
+#
+TF.Dense Twilight Forest~monster:Cinder(8-1-3)
+TF.Dense Twilight Forest~creature:
+TF.Dense Twilight Forest~ambient:
+TF.Dense Twilight Forest~waterCreature:
+#
+TF.Enchanted Forest~monster:Cinder(8-1-3)
+TF.Enchanted Forest~creature:
+TF.Enchanted Forest~ambient:
+TF.Enchanted Forest~waterCreature:
+#
+TF.Fire Swamp~monster:Cinder(8-1-3)
+TF.Fire Swamp~creature:
+TF.Fire Swamp~ambient:
+TF.Fire Swamp~waterCreature:
+#
+TF.Glacier~monster:Cinder(8-1-3)
+TF.Glacier~creature:
+TF.Glacier~ambient:
+TF.Glacier~waterCreature:
+#
+TF.Highlands~monster:Cinder(8-1-3)
+TF.Highlands~creature:
+TF.Highlands~ambient:
+TF.Highlands~waterCreature:
+#
+TF.Lake Border~monster:Cinder(8-1-3)
+TF.Lake Border~creature:
+TF.Lake Border~ambient:
+TF.Lake Border~waterCreature:
+#
+TF.Lots of Mushrooms~monster:Cinder(8-1-3)
+TF.Lots of Mushrooms~creature:
+TF.Lots of Mushrooms~ambient:
+TF.Lots of Mushrooms~waterCreature:
+#
+TF.Major Feature~monster:
+TF.Major Feature~creature:
+TF.Major Feature~ambient:
+TF.Major Feature~waterCreature:
+#
+TF.Minor Feature~monster:
+TF.Minor Feature~creature:
+TF.Minor Feature~ambient:
+TF.Minor Feature~waterCreature:
+#
+TF.Mushrooms~monster:Cinder(8-1-3)
+TF.Mushrooms~creature:
+TF.Mushrooms~ambient:
+TF.Mushrooms~waterCreature:
+#
+TF.Snowy Forest~monster:Cinder(8-1-3)
+TF.Snowy Forest~creature:
+TF.Snowy Forest~ambient:
+TF.Snowy Forest~waterCreature:
+#
+TF.Twilight Clearing~monster:Cinder(8-1-3)
+TF.Twilight Clearing~creature:
+TF.Twilight Clearing~ambient:
+TF.Twilight Clearing~waterCreature:
+#
+TF.Twilight Forest~monster:Cinder(8-1-3)
+TF.Twilight Forest~creature:
+TF.Twilight Forest~ambient:
+TF.Twilight Forest~waterCreature:
+#
+TF.Twilight Lake~monster:Cinder(8-1-3)
+TF.Twilight Lake~creature:
+TF.Twilight Lake~ambient:
+TF.Twilight Lake~waterCreature:
+#
+TF.Twilight Stream~monster:Cinder(8-1-3)
+TF.Twilight Stream~creature:
+TF.Twilight Stream~ambient:
+TF.Twilight Stream~waterCreature:
+#
+TF.Twilight Swamp~monster:
+TF.Twilight Swamp~creature:
+TF.Twilight Swamp~ambient:
+TF.Twilight Swamp~waterCreature:
+#
+Vanilla.Beach~monster:Cinder(8-1-3)
+Vanilla.Beach~creature:
+Vanilla.Beach~ambient:
+Vanilla.Beach~waterCreature:
+#
+Vanilla.Desert~monster:Cinder(8-1-3)
+Vanilla.Desert~creature:
+Vanilla.Desert~ambient:
+Vanilla.Desert~waterCreature:
+#
+Vanilla.DesertHills~monster:Cinder(8-1-3)
+Vanilla.DesertHills~creature:
+Vanilla.DesertHills~ambient:
+Vanilla.DesertHills~waterCreature:
+#
+Vanilla.Extreme Hills~monster:Cinder(8-1-3)
+Vanilla.Extreme Hills~creature:
+Vanilla.Extreme Hills~ambient:
+Vanilla.Extreme Hills~waterCreature:
+#
+Vanilla.Extreme Hills Edge~monster:Cinder(8-1-3)
+Vanilla.Extreme Hills Edge~creature:
+Vanilla.Extreme Hills Edge~ambient:
+Vanilla.Extreme Hills Edge~waterCreature:
+#
+Vanilla.Forest~monster:Cinder(8-1-3)
+Vanilla.Forest~creature:
+Vanilla.Forest~ambient:
+Vanilla.Forest~waterCreature:
+#
+Vanilla.ForestHills~monster:Cinder(8-1-3)
+Vanilla.ForestHills~creature:
+Vanilla.ForestHills~ambient:
+Vanilla.ForestHills~waterCreature:
+#
+Vanilla.FrozenOcean~monster:Cinder(8-1-3)
+Vanilla.FrozenOcean~creature:
+Vanilla.FrozenOcean~ambient:
+Vanilla.FrozenOcean~waterCreature:
+#
+Vanilla.FrozenRiver~monster:Cinder(8-1-3)
+Vanilla.FrozenRiver~creature:
+Vanilla.FrozenRiver~ambient:
+Vanilla.FrozenRiver~waterCreature:
+#
+Vanilla.Hell~monster:Cinder(8-1-3)
+Vanilla.Hell~creature:
+Vanilla.Hell~ambient:
+Vanilla.Hell~waterCreature:
+#
+Vanilla.Ice Mountains~monster:Cinder(8-1-3)
+Vanilla.Ice Mountains~creature:
+Vanilla.Ice Mountains~ambient:
+Vanilla.Ice Mountains~waterCreature:
+#
+Vanilla.Ice Plains~monster:Cinder(8-1-3)
+Vanilla.Ice Plains~creature:
+Vanilla.Ice Plains~ambient:
+Vanilla.Ice Plains~waterCreature:
+#
+Vanilla.Jungle~monster:Cinder(8-1-3)
+Vanilla.Jungle~creature:
+Vanilla.Jungle~ambient:
+Vanilla.Jungle~waterCreature:
+#
+Vanilla.JungleHills~monster:Cinder(8-1-3)
+Vanilla.JungleHills~creature:
+Vanilla.JungleHills~ambient:
+Vanilla.JungleHills~waterCreature:
+#
+Vanilla.MushroomIsland~monster:Cinder(8-1-3)
+Vanilla.MushroomIsland~creature:
+Vanilla.MushroomIsland~ambient:
+Vanilla.MushroomIsland~waterCreature:
+#
+Vanilla.MushroomIslandShore~monster:Cinder(8-1-3)
+Vanilla.MushroomIslandShore~creature:
+Vanilla.MushroomIslandShore~ambient:
+Vanilla.MushroomIslandShore~waterCreature:
+#
+Vanilla.Ocean~monster:Cinder(8-1-3)
+Vanilla.Ocean~creature:
+Vanilla.Ocean~ambient:
+Vanilla.Ocean~waterCreature:
+#
+Vanilla.Plains~monster:Cinder(8-1-3)
+Vanilla.Plains~creature:
+Vanilla.Plains~ambient:
+Vanilla.Plains~waterCreature:
+#
+Vanilla.River~monster:Cinder(8-1-3)
+Vanilla.River~creature:
+Vanilla.River~ambient:
+Vanilla.River~waterCreature:
+#
+Vanilla.Sky~monster:Cinder(8-1-3)
+Vanilla.Sky~creature:
+Vanilla.Sky~ambient:
+Vanilla.Sky~waterCreature:
+#
+Vanilla.Swampland~monster:Cinder(8-1-3)
+Vanilla.Swampland~creature:
+Vanilla.Swampland~ambient:
+Vanilla.Swampland~waterCreature:
+#
+Vanilla.Taiga~monster:Cinder(8-1-3)
+Vanilla.Taiga~creature:
+Vanilla.Taiga~ambient:
+Vanilla.Taiga~waterCreature:
+#
+Vanilla.TaigaHills~monster:Cinder(8-1-3)
+Vanilla.TaigaHills~creature:
+Vanilla.TaigaHills~ambient:
+Vanilla.TaigaHills~waterCreature:
+#
+am2.worldgen.BiomeWitchwoodForest.WitchwoodForest~monster:Cinder(8-1-3)
+am2.worldgen.BiomeWitchwoodForest.WitchwoodForest~creature:
+am2.worldgen.BiomeWitchwoodForest.WitchwoodForest~ambient:
+am2.worldgen.BiomeWitchwoodForest.WitchwoodForest~waterCreature:
+#
+am2.worldgen.SCLBiome.MooMooFarm~monster:Cinder(8-1-3)
+am2.worldgen.SCLBiome.MooMooFarm~creature:
+am2.worldgen.SCLBiome.MooMooFarm~ambient:
+am2.worldgen.SCLBiome.MooMooFarm~waterCreature:
+#
+appeng.world.BiomeGenStorage.Storage Cell~monster:
+appeng.world.BiomeGenStorage.Storage Cell~creature:
+appeng.world.BiomeGenStorage.Storage Cell~ambient:
+appeng.world.BiomeGenStorage.Storage Cell~waterCreature:
+#
+buildcraft.energy.worldgen.BiomeGenOilDesert.Desert Oil Field~monster:Cinder(8-1-3)
+buildcraft.energy.worldgen.BiomeGenOilDesert.Desert Oil Field~creature:
+buildcraft.energy.worldgen.BiomeGenOilDesert.Desert Oil Field~ambient:
+buildcraft.energy.worldgen.BiomeGenOilDesert.Desert Oil Field~waterCreature:
+#
+buildcraft.energy.worldgen.BiomeGenOilOcean.Ocean Oil Field~monster:Cinder(8-1-3)
+buildcraft.energy.worldgen.BiomeGenOilOcean.Ocean Oil Field~creature:
+buildcraft.energy.worldgen.BiomeGenOilOcean.Ocean Oil Field~ambient:
+buildcraft.energy.worldgen.BiomeGenOilOcean.Ocean Oil Field~waterCreature:
+#
+drzhark.mocreatures.dimension.BiomeGenWyvernLair.WyvernBiome~monster:
+drzhark.mocreatures.dimension.BiomeGenWyvernLair.WyvernBiome~creature:
+drzhark.mocreatures.dimension.BiomeGenWyvernLair.WyvernBiome~ambient:
+drzhark.mocreatures.dimension.BiomeGenWyvernLair.WyvernBiome~waterCreature:
+#
+net.minecraft.world.biome.BiomeGenForest.Valley~monster:
+net.minecraft.world.biome.BiomeGenForest.Valley~creature:
+net.minecraft.world.biome.BiomeGenForest.Valley~ambient:
+net.minecraft.world.biome.BiomeGenForest.Valley~waterCreature:
+#
+net.minecraft.world.biome.BiomeGenJungle.Jungle Island~monster:
+net.minecraft.world.biome.BiomeGenJungle.Jungle Island~creature:
+net.minecraft.world.biome.BiomeGenJungle.Jungle Island~ambient:
+net.minecraft.world.biome.BiomeGenJungle.Jungle Island~waterCreature:
+#
+net.minecraft.world.biome.BiomeGenOcean.Windy Island~monster:
+net.minecraft.world.biome.BiomeGenOcean.Windy Island~creature:
+net.minecraft.world.biome.BiomeGenOcean.Windy Island~ambient:
+net.minecraft.world.biome.BiomeGenOcean.Windy Island~waterCreature:
+#
+net.minecraft.world.biome.BiomeGenTaiga.Boreal Forest~monster:Cinder(8-1-3)
+net.minecraft.world.biome.BiomeGenTaiga.Boreal Forest~creature:
+net.minecraft.world.biome.BiomeGenTaiga.Boreal Forest~ambient:
+net.minecraft.world.biome.BiomeGenTaiga.Boreal Forest~waterCreature:
+#
+net.minecraft.world.biome.BiomeGenTaiga.Snow Island~monster:
+net.minecraft.world.biome.BiomeGenTaiga.Snow Island~creature:
+net.minecraft.world.biome.BiomeGenTaiga.Snow Island~ambient:
+net.minecraft.world.biome.BiomeGenTaiga.Snow Island~waterCreature:
+#
+thaumcraft.common.lib.world.biomes.BiomeGenEerie.Eerie~monster:Cinder(8-1-3)
+thaumcraft.common.lib.world.biomes.BiomeGenEerie.Eerie~creature:
+thaumcraft.common.lib.world.biomes.BiomeGenEerie.Eerie~ambient:
+thaumcraft.common.lib.world.biomes.BiomeGenEerie.Eerie~waterCreature:
+#
+thaumcraft.common.lib.world.biomes.BiomeGenMagicalForest.Magical Forest~monster:Cinder(8-1-3)
+thaumcraft.common.lib.world.biomes.BiomeGenMagicalForest.Magical Forest~creature:
+thaumcraft.common.lib.world.biomes.BiomeGenMagicalForest.Magical Forest~ambient:
+thaumcraft.common.lib.world.biomes.BiomeGenMagicalForest.Magical Forest~waterCreature:
+#
+thaumcraft.common.lib.world.biomes.BiomeGenTaint.Tainted Land~monster:Cinder(8-1-3)
+thaumcraft.common.lib.world.biomes.BiomeGenTaint.Tainted Land~creature:
+thaumcraft.common.lib.world.biomes.BiomeGenTaint.Tainted Land~ambient:
+thaumcraft.common.lib.world.biomes.BiomeGenTaint.Tainted Land~waterCreature:
+#
+ttftcuts.atg.biome.ATGBiomeGenGravelBeach.Gravel Beach~monster:Cinder(8-1-3)
+ttftcuts.atg.biome.ATGBiomeGenGravelBeach.Gravel Beach~creature:
+ttftcuts.atg.biome.ATGBiomeGenGravelBeach.Gravel Beach~ambient:
+ttftcuts.atg.biome.ATGBiomeGenGravelBeach.Gravel Beach~waterCreature:
+#
+ttftcuts.atg.biome.ATGBiomeGenGravelBeach.Snowy Beach~monster:Cinder(8-1-3)
+ttftcuts.atg.biome.ATGBiomeGenGravelBeach.Snowy Beach~creature:
+ttftcuts.atg.biome.ATGBiomeGenGravelBeach.Snowy Beach~ambient:
+ttftcuts.atg.biome.ATGBiomeGenGravelBeach.Snowy Beach~waterCreature:
+#
+ttftcuts.atg.biome.ATGBiomeGenSavanna.Savanna~monster:Cinder(8-1-3)
+ttftcuts.atg.biome.ATGBiomeGenSavanna.Savanna~creature:
+ttftcuts.atg.biome.ATGBiomeGenSavanna.Savanna~ambient:
+ttftcuts.atg.biome.ATGBiomeGenSavanna.Savanna~waterCreature:
+#
+ttftcuts.atg.biome.ATGBiomeGenShrubland.Shrubland~monster:Cinder(8-1-3)
+ttftcuts.atg.biome.ATGBiomeGenShrubland.Shrubland~creature:
+ttftcuts.atg.biome.ATGBiomeGenShrubland.Shrubland~ambient:
+ttftcuts.atg.biome.ATGBiomeGenShrubland.Shrubland~waterCreature:
+#
+ttftcuts.atg.biome.ATGBiomeGenSteppe.Rocky Steppe~monster:Cinder(8-1-3)
+ttftcuts.atg.biome.ATGBiomeGenSteppe.Rocky Steppe~creature:
+ttftcuts.atg.biome.ATGBiomeGenSteppe.Rocky Steppe~ambient:
+ttftcuts.atg.biome.ATGBiomeGenSteppe.Rocky Steppe~waterCreature:
+#
+ttftcuts.atg.biome.ATGBiomeGenTropicalShrubland.Tropical Shrubland~monster:Cinder(8-1-3)
+ttftcuts.atg.biome.ATGBiomeGenTropicalShrubland.Tropical Shrubland~creature:
+ttftcuts.atg.biome.ATGBiomeGenTropicalShrubland.Tropical Shrubland~ambient:
+ttftcuts.atg.biome.ATGBiomeGenTropicalShrubland.Tropical Shrubland~waterCreature:
+#
+ttftcuts.atg.biome.ATGBiomeGenTundra.Tundra~monster:Cinder(8-1-3)
+ttftcuts.atg.biome.ATGBiomeGenTundra.Tundra~creature:
+ttftcuts.atg.biome.ATGBiomeGenTundra.Tundra~ambient:
+ttftcuts.atg.biome.ATGBiomeGenTundra.Tundra~waterCreature:
+#
+ttftcuts.atg.biome.ATGBiomeGenVolcano.Volcano~monster:Cinder(8-1-3)
+ttftcuts.atg.biome.ATGBiomeGenVolcano.Volcano~creature:
+ttftcuts.atg.biome.ATGBiomeGenVolcano.Volcano~ambient:
+ttftcuts.atg.biome.ATGBiomeGenVolcano.Volcano~waterCreature:
+#
+ttftcuts.atg.biome.ATGBiomeGenWoodland.Woodland~monster:Cinder(8-1-3)
+ttftcuts.atg.biome.ATGBiomeGenWoodland.Woodland~creature:
+ttftcuts.atg.biome.ATGBiomeGenWoodland.Woodland~ambient:
+ttftcuts.atg.biome.ATGBiomeGenWoodland.Woodland~waterCreature:
+#

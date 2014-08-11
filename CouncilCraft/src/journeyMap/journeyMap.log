@@ -1,0 +1,29 @@
+22:15:12 INFO [MC] [JourneyMap.initialize] JourneyMap 3.3.2 FairPlay starting Tue Jul 29 22:15:12 PDT 2014
+22:15:12 INFO [MC] [JMLogger.environment] os.name = Windows 7, os.arch = amd64, user.country = US, user.language = en, java.version = 1.7.0_51
+22:15:12 INFO [MC] [JMLogger.environment] Game settings language: en_US / Locale: en_us
+22:15:12 INFO [MC] [JourneyMap.initialize] Properties: {announce_modloaded=true, browser_poll=1900, chunk_offset=5, logging_level=INFO, mapgui_enabled=true, preference_minimap_fontscale=2.0, preference_minimap_hotkeys=true, preference_minimap_position=BottomRight, preference_minimap_shape=SmallSquare, preference_minimap_showfps=true, preference_show_animals=true, preference_show_caves=true, preference_show_grid=true, preference_show_minimap=false, preference_show_mobs=true, preference_show_pets=true, preference_show_players=true, preference_show_villagers=true, preference_show_waypoints=true, render_cavelighting_enabled=true, update_check_enabled=true, update_timer_chunks=2000, update_timer_entities=1000, webserver_enabled=true, webserver_port=8080}
+22:15:12 INFO [MC] [JMServer.start] Started webserver on port 8080
+22:15:12 INFO [MC] [VersionCheck.checkVersion] Checking for updated version: https://dl.dropboxusercontent.com/u/38077766/JourneyMap/journeymap-version.js
+22:15:13 INFO [MC] [VersionCheck.checkVersion] Version available online: 4.0.3
+22:15:13 INFO [MC] [JourneyMap.initialize] Initialization complete.
+22:22:52 INFO [MC] [ColorCache.func_110549_a] ResourcePack: null --> [minecraft, forge, nei, powercrystalscore, bspkrscore, gaia, wildcaves3, advancedgenetics, advancedmachines, advancedpowermanagement, advancedsolarpanel, agriculture, arsmagica2, aobd, appeng, archimedes, aroma1997core, atomicscience, autoutils, backpack, bctools, betterdungeons, betterstorage, bibliocraft, bigreactors, binniecore, extrabees, extratrees, forestry, biomesoplenty, alchemicalwizardry, buildcraft, additional-buildcraft-objects, calclavia, chargepads, chickenchunks, chisel, cofh, compactsolars, compactwindmills, computercraft, craftheraldry, customnpcs, dartcraft, denpipes, denpipesemerald, denpipesforestry, dyetrees, dynamictanks, electricraft, emashercore, emasher, eplus, enderio, endernet, enderstorage, sockets, enhancedportals, alzlib, ee3, expandedredstone, extracells, extratic, extrautils, factorization, flansmod, flatsigns, forbidden, guilib, gascraft, gatecopy, gendustry, geostrata, gravisuite, gravigun, gregtech_addon, ic2, hats, highlands, hopperductmod, nuclearcontrol, icbm, inventorytweaks, ironchest, jabba, journeymap, logisticspipes, lomlib, magicalcrops, magicbees, mariculture, mekanism, minefactoryreloaded, mffs, powersuits, mystcraft, natura, neiaddons, neiplugins, netherores, openblocks, openmodslib, openperipheraladdons, mapwriter, opis, pluginsforforestry, portalgun, powerconverters, powersuitaddons, projectred, qcraft, yogpstop_qp, railcraft, randomthings, reactorcraft, redstonearsenal, xreliquary, remoteio, resonantinduction, ropesplus, rotarycraft, ss2, stevescarts, switches, sync, tinker, thaumcraft, ttinkerer, thermalexpansion, iguanatweakstconstruct, tmechworks, thkaguyamod, tubestuff, twilightforest, waila, weaponmod, wrcbe_logic, wrcbe_addons, wrcbe_core, microblock, immibis_core, SmartMoving]
+22:22:53 INFO [MC] [LegacyMigrationTask$Manager.enableTask] No legacy files found.
+22:22:53 INFO [MC] [JourneyMap.startMapping] Mapping started in Tristana-Chwan dimension 0.
+22:22:53 INFO [MC] [ChatLog.showChatAnnouncements] JourneyMap: JourneyMap 3.3.2 FairPlay ready.
+22:22:53 INFO [MC] [ChatLog.showChatAnnouncements] JourneyMap: Press [J] or open browser to http://localhost:8080 
+22:22:53 INFO [MC] [ChatLog.showChatAnnouncements] JourneyMap: Newer version available: 
+22:22:53 INFO [MC] [ChatLog.showChatAnnouncements] JourneyMap: http://journeymap.techbrew.net/
+22:22:55 INFO [MC] [JourneyMap.stopMapping] Mapping halting in Tristana-Chwan dimension 0.
+22:28:49 INFO [MC] [LegacyMigrationTask$Manager.enableTask] No legacy files found.
+22:28:49 INFO [MC] [JourneyMap.startMapping] Mapping started in Tristana-Chwan dimension 0.
+22:29:52 INFO [MC] [JourneyMap.stopMapping] Mapping halting in Tristana-Chwan dimension 0.
+23:55:08 INFO [MC] [LegacyMigrationTask$Manager.enableTask] No legacy files found.
+23:55:08 INFO [MC] [JourneyMap.startMapping] Mapping started in Tristana-Chwan dimension 0.
+23:57:18 INFO [MC] [JourneyMap.stopMapping] Mapping halting in Tristana-Chwan dimension 0.
+00:08:56 INFO [MC] [LegacyMigrationTask$Manager.enableTask] No legacy files found.
+00:08:56 INFO [MC] [JourneyMap.startMapping] Mapping started in Tristana-Chwan dimension 0.
+00:11:18 INFO [MC] [JourneyMap.stopMapping] Mapping halting in Tristana-Chwan dimension 0.
+00:37:18 INFO [MC] [LegacyMigrationTask$Manager.enableTask] No legacy files found.
+00:37:18 INFO [MC] [JourneyMap.startMapping] Mapping started in Tristana-Chwan dimension 0.
+00:37:22 INFO [MC] [JourneyMap.stopMapping] Mapping halting in Tristana-Chwan dimension 0.
+00:57:39 INFO [JM-svr-2] [JMServer.stop] Stopped webserver without errors
